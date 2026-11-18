@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 # Bring the humans again — a plain-English guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
